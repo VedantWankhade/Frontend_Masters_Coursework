@@ -1,0 +1,5 @@
+1. Prerequisites (Internet Fundamentals) : https://internetfundamentals.com/
+
+2. Bootcamp notes : https://frontendmasters.github.io/bootcamp/
+
+3. Slack Channel : fmbootcamp.slack.com
