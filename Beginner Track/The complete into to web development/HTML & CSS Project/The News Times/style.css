@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+div div {
+    border: 2px solid green;
+    padding: 2%;
+}
+
+.twenty-five {
+    flex-basis: 25%;
+}
+
+.fifty {
+    flex-basis: 50%;
+}
+
+.colored-container {
+    flex-basis: 75%;
+    display: flex;
+    flex-flow: column;
+    padding: 0;
+}
